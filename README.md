@@ -53,6 +53,7 @@ Kapamilya Channel HD
 TV 5
 PTV
 GMA Network
+Abante TV
 ```
 
 LINK TO IPTV M3U:
