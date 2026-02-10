@@ -113,3 +113,5 @@ https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 #EXTINF:-1,GMA Network
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:-1,Vatican News English
+https://api.m3use.projectmoose.xyz/m3u/EugeneQuirona12345/Philippines/681247aec4027c3e99be8f08.m3u8?uid=EugeneQuirona12345&pkey=twN8GpYX
