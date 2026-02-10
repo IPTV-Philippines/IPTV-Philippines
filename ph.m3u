@@ -57,8 +57,6 @@ https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,TFC GUAM
-https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1,Blues TV
@@ -115,3 +113,5 @@ https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1,Vatican News English
 https://api.m3use.projectmoose.xyz/m3u/EugeneQuirona12345/Philippines/681247aec4027c3e99be8f08.m3u8?uid=EugeneQuirona12345&pkey=twN8GpYX
+#EXTINF:-1,The Filipino Channel
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
