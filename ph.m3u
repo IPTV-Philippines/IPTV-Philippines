@@ -90,7 +90,7 @@ https://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1,Nickelodeon 
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1,TV Maria Philippines (720p)
-https://youtube.com/@tvmarialive/live
+https://api.m3use.projectmoose.xyz/m3u/EugeneQuirona12345/ph.m3u/698a9fd12fbbbd1fa3279c5c.m3u8?uid=EugeneQuirona12345&pkey=twN8GpYX
 #EXTINF:-1,Yahoo! Finance (1080p)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
